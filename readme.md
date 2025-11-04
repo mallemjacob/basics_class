@@ -20,10 +20,10 @@ Python Syntax
 # data types
 -------------
 # integers
-1,2,3,4
+1,2,3,4...
 
 # floats
-1.34, 2.24, 9.99
+1.34, 2.24, 9.99...
 
 # strings
 'good morning', "bye", 'mouse'
@@ -63,7 +63,7 @@ float() # Convert integers and strings into floats.
 
 # Variables
 # Give lables to values.
-# Store values in variables
+# Store values in variables.
 
 
 #Datatypes
@@ -102,3 +102,37 @@ if condition:
     code
 else:
     code
+
+# Booleans
+True, False
+
+Boolean Operators
+------------------
+and, or, not
+
+'hi' + 'there'
+True and True
+True or False
+
+NOT
+not True --> False
+not False --> True
+
+not not not not True --> True
+
+AND
+True and True --> True
+True and False --> False
+False and True --> False
+False and False --> False
+
+OR
+True or True --> True
+True or False --> True
+False or True --> True
+False or False --> False
+
+# Loops
+-------
+1. for loop --> Certain number of times
+2. while loop --> Until it becomes False

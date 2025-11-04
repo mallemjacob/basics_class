@@ -41,15 +41,41 @@
 # print(age)
 
 
-student_marks = 55
-expected_marks = 90
+# student_marks = 40
+# first_class = 90
+# second_class = 75
+# third_class = 50
 
-if student_marks > expected_marks:
-    print('laptop')
-    print('iphone')
-    print('earphones')
-    print('bike')
-else:
-    print('wash dishes')
-    print('clean floor')
-    print('no playing video games')
+# if student_marks > expected_marks: # 95 > 90
+#     print('laptop')
+#     print('iphone')
+#     print('earphones')
+#     print('bike')
+# else:
+#     print('wash dishes')
+#     print('clean floor')
+#     print('no playing video games')
+
+
+# if condition:
+#     code
+# elif condition:
+#     code
+# else:
+#     code
+
+# if student_marks > first_class:
+#     print('Excellent')
+# elif student_marks > second_class and student_marks < first_class:
+#     print('Good')
+# elif student_marks < second_class and student_marks > third_class:
+#     print('Average')
+# else:
+#     print('Poor Grade')
+
+# if 2 == 4: #False
+#     print('yes')
+# else:
+#     print('no')
+
+# Loops
